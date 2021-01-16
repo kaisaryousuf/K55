@@ -1,10 +1,10 @@
 ## K55 - Linux x86_64 Process Injection Utility (C++11)
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2d300ef4516041178faab44fc2544571)](https://app.codacy.com/gh/josh0xA/K55?utm_source=github.com&utm_medium=referral&utm_content=josh0xA/K55&utm_campaign=Badge_Grade)
-
 <p align="center">
   <img src="https://github.com/josh0xA/K55/blob/main/imgs/k55logo.png?raw=true">
 </p>
+
+<a href="https://www.codacy.com/gh/josh0xA/K55/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=josh0xA/K55&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/5601be2ff0bb47feae3090d098cec01f"/></a>
 
 ## About K55 
 (pronounced: "kay fifty-five")<br/>
