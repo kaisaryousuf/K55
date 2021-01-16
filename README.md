@@ -6,6 +6,7 @@
 
 <p align="center">
 <a href="https://www.codacy.com/gh/josh0xA/K55/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=josh0xA/K55&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/5601be2ff0bb47feae3090d098cec01f"/></a>
+<a href="https://lbesson.mit-license.org/" target="_blank"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="lisence" /></a>
 </p>
 ## About K55 
 (pronounced: "kay fifty-five")<br/>
